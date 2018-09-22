@@ -1,4 +1,4 @@
-# Server and client communication using Huffman algorithm as compressor
+# Client server communication using Huffman algorithm for compression
 ## How to use
 First, clone and install dependencies:
 ```

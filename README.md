@@ -1,5 +1,4 @@
-# Server and client communication using then Shannon-Fano coding
-
+# Server and client communication using Huffman algorithm as compressor
 ## How to use
 First, clone and install dependencies:
 ```

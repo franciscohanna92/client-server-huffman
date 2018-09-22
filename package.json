@@ -1,0 +1,17 @@
+{
+  "name": "client-server-compressor",
+  "version": "1.0.0",
+  "description": "Server and client communication using then Shannon-Fano coding",
+  "main": "client.js",
+  "scripts": {
+    "server": "node src/server.js",
+    "client": "node src/client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitwise": "^2.0.0",
+    "logger": "0.0.1"
+  }
+}
